@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Groovy AST transformations pitfalls
 layout: post
 tags: [groovy, ast]
